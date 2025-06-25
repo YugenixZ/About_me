@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m YugeniX
+# 👋 Hi, I’m YugenixZ
 
 🎓 I'm a Master's student in Scientific Computing at TU Berlin, with a strong interest in the intersection of Artificial Intelligence, human expression, and social values.
 
@@ -8,7 +8,7 @@
 - Human-centered computing and interactive AI systems
 - The psychological and philosophical dimensions of AI-driven expression
 
-📌 Current status: Finishing Master Thesis on M.Sc. Scientific Computing
+📌 Current status: Finishing Master Thesis on M.Sc. Scientific Computing; looking for the future career related to intersection of Artificial Intelligence, human expression, and social values.
 
 🌱 I'm passionate about making AI more interpretable, expressive, and aligned with real human needs and communication styles.
 
